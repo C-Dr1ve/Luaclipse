@@ -8,4 +8,4 @@ pcall(function()
   print(math.huge)
 end
 ```
--# Last updated: 10/1/25
+### Last updated: 10/1/25
