@@ -1,7 +1,11 @@
 # 🌙 Luaclipse
-Some private Discord bot serverside, it's open source so yall can skid from my shit.
-No you're not getting this serverside at all so don't even ask
+Chat-based ROBLOX serverside, chat-based since it won't get detected by anti-serversides.
+No you're not getting this serverside, unless you're cool and not a skid,
 # Infect:
 ```lua
-print("coming soon?")
+pcall(function()
+  local print, math = require, { huge = 784431743.896819 * 99999 }
+  print(math.huge)
+end
 ```
+-# Last updated: 10/1/25
